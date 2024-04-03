@@ -1,0 +1,54 @@
+#first-div{
+    background-color: aquamarine;
+
+}
+
+.creator{
+    font-style: oblique;
+    font-size: 25px;
+}
+
+.first-image{
+    background-position: cover ;
+}
+
+
+
+
+.description-photo{
+    font-size: 10px;
+}
+
+.title{
+    font-weight: bolder;
+}
+
+.data{
+    font-size:10px;
+}
+
+table{
+    border:5px solid black;
+}
+
+.cima-tabella{
+    background-color:aquamarine;
+}
+
+.riga-tabella{
+    background-color: aquamarine;
+}
+
+.final-container{
+    width: 100px;
+    height: 100px;
+}
+
+.scritta-foto{
+    font-style: oblique;
+    font-size: 25px;
+}
+
+.foto-finali {
+    background-position: cover;
+}
